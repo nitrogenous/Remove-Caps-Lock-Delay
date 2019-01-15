@@ -5,5 +5,5 @@
 
 **How do we solve?**
 
-First of all clone or download repo and extract anywhere then open your terminal in the files directory. 
+First of all clone or download repo and extract anywhere then open your terminal in the file's directory. 
 > bash rm-delay.sh
